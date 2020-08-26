@@ -109,6 +109,7 @@ body {
 .sale {
   background-image: url(../img/1.svg);
   background-repeat: no-repeat;
+  background-size: contain;
   height: 604px;
   width: 100%;
   /* .sale__row */
